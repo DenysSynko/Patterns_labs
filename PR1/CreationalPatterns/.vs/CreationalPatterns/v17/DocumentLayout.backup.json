@@ -5,6 +5,138 @@
     {
       "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory\\menufactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory\\menufactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\builder\\armybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\builder\\armybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\builder\\iarmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\builder\\iarmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\builder\\armyofgondor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\builder\\armyofgondor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\prototype\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\prototype\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\prototype\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\prototype\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\tavern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\tavern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\hobbitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\hobbitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\elvenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\elvenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\elvenwine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\elvenwine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\elvenlembas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\elvenlembas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\itavern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\itavern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\hobbitpie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\hobbitpie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\hobbitale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\hobbitale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\idrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\idrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\abstract_factory\\ifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\abstract_factory\\ifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\singleton\\onering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\singleton\\onering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\snaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\snaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\mordororc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\mordororc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\urukhai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\urukhai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\urukhaicreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\urukhaicreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\snagacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\snagacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\mordororccreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\mordororccreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory_method\\goblincreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory_method\\goblincreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory\\ale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory\\ale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr1\\creationalpatterns\\creationalpatterns\\creational\\factory\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creational\\factory\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +146,444 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\prototype\\Warrior.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\prototype\\Warrior.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\prototype\\Warrior.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\prototype\\Warrior.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:58:46.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArmy.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\builder\\IArmy.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\builder\\IArmy.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\builder\\IArmy.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\builder\\IArmy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:08:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArmyOfGondor.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\builder\\ArmyOfGondor.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\builder\\ArmyOfGondor.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\builder\\ArmyOfGondor.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\builder\\ArmyOfGondor.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:27:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuFactory.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\MenuFactory.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory\\MenuFactory.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\MenuFactory.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory\\MenuFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:39:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElvenLembas.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ElvenLembas.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\ElvenLembas.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ElvenLembas.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ElvenLembas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:30:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wine.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Wine.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory\\Wine.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Wine.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Wine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:37:11.028Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\Program.cs",
               "RelativeDocumentMoniker": "CreationalPatterns\\Program.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\Program.cs",
-              "RelativeToolTip": "CreationalPatterns\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\Program.cs*",
+              "RelativeToolTip": "CreationalPatterns\\Program.cs*",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwH0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T16:31:23.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\prototype\\Person.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\prototype\\Person.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\prototype\\Person.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\prototype\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:55:21.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HobbitAle.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\HobbitAle.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\HobbitAle.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\HobbitAle.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\HobbitAle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:27:49.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArmyBuilder.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\builder\\ArmyBuilder.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\builder\\ArmyBuilder.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\builder\\ArmyBuilder.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\builder\\ArmyBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:08:37.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElvenWine.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ElvenWine.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\ElvenWine.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ElvenWine.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ElvenWine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:31:02.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITavern.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ITavern.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\ITavern.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ITavern.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ITavern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:33:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HobbitFactory.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\HobbitFactory.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\HobbitFactory.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\HobbitFactory.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\HobbitFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:35:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElvenFactory.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ElvenFactory.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\ElvenFactory.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\ElvenFactory.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ElvenFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:35:53.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tavern.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\Tavern.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\Tavern.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\Tavern.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\Tavern.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:41:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HobbitPie.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\HobbitPie.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\HobbitPie.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\HobbitPie.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\HobbitPie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:27:35.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDrink.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\IDrink.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\IDrink.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\IDrink.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\IDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:26:20.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFood.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\IFood.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\IFood.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\IFood.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\IFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:26:05.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Snaga.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Snaga.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\Snaga.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Snaga.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\Snaga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:27:55.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UrukHai.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\UrukHai.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\UrukHai.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\UrukHai.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\UrukHai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:26:17.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MordorOrc.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\MordorOrc.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\MordorOrc.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\MordorOrc.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\MordorOrc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:25:53.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orc.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Orc.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\Orc.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Orc.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\Orc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:20:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OneRing.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\singleton\\OneRing.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\singleton\\OneRing.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\singleton\\OneRing.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\singleton\\OneRing.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:24:54.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UrukHaiCreator.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\UrukHaiCreator.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\UrukHaiCreator.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\UrukHaiCreator.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\UrukHaiCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:39:02.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Goblin.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\Goblin.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Goblin.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\Goblin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:26:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Creator.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\Creator.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\Creator.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\Creator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:32:45.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GoblinCreator.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\GoblinCreator.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\GoblinCreator.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\GoblinCreator.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\GoblinCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:37:55.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SnagaCreator.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\SnagaCreator.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\SnagaCreator.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\SnagaCreator.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\SnagaCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:38:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MordorOrcCreator.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\MordorOrcCreator.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory_method\\MordorOrcCreator.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory_method\\MordorOrcCreator.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\MordorOrcCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:38:29.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Coffee.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory\\Coffee.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Coffee.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:38:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Tea.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory\\Tea.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Tea.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:37:55.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Beer.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory\\Beer.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Beer.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:36:04.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ale.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Ale.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory\\Ale.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\Ale.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Ale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:29:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\IMenu.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\creational\\factory\\IMenu.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\factory\\IMenu.cs",
+              "RelativeToolTip": "CreationalPatterns\\creational\\factory\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:26:43.574Z",
               "EditorCaption": ""
             }
           ]
