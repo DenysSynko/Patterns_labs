@@ -1,0 +1,15 @@
+D:\Study\patterns\PR4\PR4\bin\Debug\net8.0\PR4.exe
+D:\Study\patterns\PR4\PR4\bin\Debug\net8.0\PR4.deps.json
+D:\Study\patterns\PR4\PR4\bin\Debug\net8.0\PR4.runtimeconfig.json
+D:\Study\patterns\PR4\PR4\bin\Debug\net8.0\PR4.dll
+D:\Study\patterns\PR4\PR4\bin\Debug\net8.0\PR4.pdb
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.AssemblyInfoInputs.cache
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.AssemblyInfo.cs
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.csproj.CoreCompileInputs.cache
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.sourcelink.json
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.dll
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\refint\PR4.dll
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.pdb
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\PR4.genruntimeconfig.cache
+D:\Study\patterns\PR4\PR4\obj\Debug\net8.0\ref\PR4.dll

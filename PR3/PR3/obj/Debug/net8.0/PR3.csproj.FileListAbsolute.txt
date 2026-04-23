@@ -1,0 +1,15 @@
+D:\Study\patterns\PR3\PR3\bin\Debug\net8.0\PR3.exe
+D:\Study\patterns\PR3\PR3\bin\Debug\net8.0\PR3.deps.json
+D:\Study\patterns\PR3\PR3\bin\Debug\net8.0\PR3.runtimeconfig.json
+D:\Study\patterns\PR3\PR3\bin\Debug\net8.0\PR3.dll
+D:\Study\patterns\PR3\PR3\bin\Debug\net8.0\PR3.pdb
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.AssemblyInfoInputs.cache
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.AssemblyInfo.cs
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.csproj.CoreCompileInputs.cache
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.sourcelink.json
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.dll
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\refint\PR3.dll
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.pdb
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\PR3.genruntimeconfig.cache
+D:\Study\patterns\PR3\PR3\obj\Debug\net8.0\ref\PR3.dll

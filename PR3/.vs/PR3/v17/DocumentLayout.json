@@ -1,0 +1,741 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\patterns\\PR3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\chain_of_responsibility\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\chain_of_responsibility\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\chain_of_responsibility\\middleearthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\chain_of_responsibility\\middleearthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\chain_of_responsibility\\hobbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\chain_of_responsibility\\hobbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\chain_of_responsibility\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\chain_of_responsibility\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\visitor\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\visitor\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\visitor\\trainingvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\visitor\\trainingvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\visitor\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\visitor\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\visitor\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\visitor\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\visitor\\inspectionvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\visitor\\inspectionvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\visitor\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\visitor\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\template_method\\orcbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\template_method\\orcbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\template_method\\elfbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\template_method\\elfbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\template_method\\battleplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\template_method\\battleplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\strategy\\stealthattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\strategy\\stealthattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\strategy\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\strategy\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\strategy\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\strategy\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\strategy\\commander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\strategy\\commander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\strategy\\archerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\strategy\\archerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\state\\tiredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\state\\tiredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\state\\normalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\state\\normalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\state\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\state\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\state\\frodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\state\\frodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\state\\corruptedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\state\\corruptedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\observer\\fortress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\observer\\fortress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\observer\\beacon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\observer\\beacon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\memento\\gandalf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\memento\\gandalf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\memento\\frodomemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\memento\\frodomemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\memento\\frodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\memento\\frodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\mediator\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\mediator\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\mediator\\stewardofgondor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\mediator\\stewardofgondor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\mediator\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\mediator\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\mediator\\imessenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\mediator\\imessenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\iterator\\fellowship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\iterator\\fellowship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\iterator\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\iterator\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\scoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\scoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\retreatcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\retreatcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\legolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\legolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\gimli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\gimli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\commander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\commander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\attackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\attackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|d:\\study\\patterns\\pr3\\pr3\\behavioral_patterns\\command\\aragorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509A9B8-CD82-4377-8C13-43955A8C952B}|PR3\\PR3.csproj|solutionrelative:pr3\\behavioral_patterns\\command\\aragorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\Warrior.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\visitor\\Warrior.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\Warrior.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\visitor\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:06:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\Program.cs",
+              "RelativeDocumentMoniker": "PR3\\Program.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\Program.cs",
+              "RelativeToolTip": "PR3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:08:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrcBattle.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\template_method\\OrcBattle.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\template_method\\OrcBattle.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\template_method\\OrcBattle.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\template_method\\OrcBattle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:01:26.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\Elf.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\chain_of_responsibility\\Elf.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\Elf.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\chain_of_responsibility\\Elf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:18:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hobbit.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\Hobbit.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\chain_of_responsibility\\Hobbit.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\Hobbit.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\chain_of_responsibility\\Hobbit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:18:21.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiddleEarthHandler.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\MiddleEarthHandler.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\chain_of_responsibility\\MiddleEarthHandler.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\MiddleEarthHandler.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\chain_of_responsibility\\MiddleEarthHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:18:00.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\Wizard.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\chain_of_responsibility\\Wizard.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\chain_of_responsibility\\Wizard.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\chain_of_responsibility\\Wizard.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:18:58.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainingVisitor.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\TrainingVisitor.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\visitor\\TrainingVisitor.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\TrainingVisitor.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\visitor\\TrainingVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:07:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVisitor.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\IVisitor.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\visitor\\IVisitor.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\IVisitor.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\visitor\\IVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:06:01.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnit.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\IUnit.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\visitor\\IUnit.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\IUnit.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\visitor\\IUnit.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:06:14.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InspectionVisitor.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\InspectionVisitor.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\visitor\\InspectionVisitor.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\InspectionVisitor.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\visitor\\InspectionVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:07:06.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\Archer.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\visitor\\Archer.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\visitor\\Archer.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\visitor\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:06:31.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElfBattle.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\template_method\\ElfBattle.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\template_method\\ElfBattle.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\template_method\\ElfBattle.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\template_method\\ElfBattle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:02:14.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BattlePlan.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\template_method\\BattlePlan.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\template_method\\BattlePlan.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\template_method\\BattlePlan.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\template_method\\BattlePlan.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:01:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StealthAttack.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\StealthAttack.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\strategy\\StealthAttack.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\StealthAttack.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\strategy\\StealthAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:57:43.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MeleeAttack.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\MeleeAttack.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\strategy\\MeleeAttack.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\MeleeAttack.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\strategy\\MeleeAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:57:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAttackStrategy.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\IAttackStrategy.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\strategy\\IAttackStrategy.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\IAttackStrategy.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\strategy\\IAttackStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:56:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Commander.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\Commander.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\strategy\\Commander.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\Commander.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\strategy\\Commander.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:58:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArcherAttack.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\ArcherAttack.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\strategy\\ArcherAttack.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\strategy\\ArcherAttack.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\strategy\\ArcherAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:57:12.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TiredState.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\TiredState.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\state\\TiredState.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\TiredState.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\state\\TiredState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:50:53.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NormalState.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\NormalState.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\state\\NormalState.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\NormalState.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\state\\NormalState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:50:38.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IState.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\IState.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\state\\IState.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\IState.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\state\\IState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:50:20.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Frodo.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\Frodo.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\state\\Frodo.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\Frodo.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\state\\Frodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:51:27.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CorruptedState.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\CorruptedState.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\state\\CorruptedState.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\state\\CorruptedState.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\state\\CorruptedState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:51:12.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\observer\\IObserver.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\observer\\IObserver.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:46:46.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Fortress.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\observer\\Fortress.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\observer\\Fortress.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\observer\\Fortress.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\observer\\Fortress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:47:37.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Beacon.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\observer\\Beacon.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\observer\\Beacon.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\observer\\Beacon.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\observer\\Beacon.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:47:19.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Gandalf.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\memento\\Gandalf.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\memento\\Gandalf.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\memento\\Gandalf.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\memento\\Gandalf.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:40:57.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrodoMemento.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\memento\\FrodoMemento.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\memento\\FrodoMemento.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\memento\\FrodoMemento.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\memento\\FrodoMemento.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:37:32.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Frodo.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\memento\\Frodo.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\memento\\Frodo.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\memento\\Frodo.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\memento\\Frodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:37:47.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\Subject.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\mediator\\Subject.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\Subject.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\mediator\\Subject.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:43:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StewardOfGondor.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\StewardOfGondor.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\mediator\\StewardOfGondor.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\StewardOfGondor.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\mediator\\StewardOfGondor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:42:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "King.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\King.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\mediator\\King.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\King.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\mediator\\King.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:42:21.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMessenger.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\IMessenger.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\mediator\\IMessenger.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\mediator\\IMessenger.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\mediator\\IMessenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:41:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\iterator\\Iterator.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\iterator\\Iterator.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\iterator\\Iterator.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\iterator\\Iterator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:36:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Fellowship.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\iterator\\Fellowship.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\iterator\\Fellowship.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\iterator\\Fellowship.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\iterator\\Fellowship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:37:21.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\iterator\\Character.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\iterator\\Character.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\iterator\\Character.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\iterator\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:36:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ScoutCommand.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\ScoutCommand.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\ScoutCommand.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\ScoutCommand.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\ScoutCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:30:52.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RetreatCommand.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\RetreatCommand.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\RetreatCommand.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\RetreatCommand.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\RetreatCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:31:15.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Legolas.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Legolas.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\Legolas.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Legolas.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\Legolas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:29:16.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\ICommand.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\ICommand.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\ICommand.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:28:41.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Gimli.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Gimli.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\Gimli.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Gimli.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\Gimli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:29:47.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Commander.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Commander.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\Commander.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Commander.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\Commander.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:31:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AttackCommand.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\AttackCommand.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\AttackCommand.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\AttackCommand.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\AttackCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:30:25.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Aragorn.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Aragorn.cs",
+              "RelativeDocumentMoniker": "PR3\\behavioral_patterns\\command\\Aragorn.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR3\\PR3\\behavioral_patterns\\command\\Aragorn.cs",
+              "RelativeToolTip": "PR3\\behavioral_patterns\\command\\Aragorn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:29:30.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
