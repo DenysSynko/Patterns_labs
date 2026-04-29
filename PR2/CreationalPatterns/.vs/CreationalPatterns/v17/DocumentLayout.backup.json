@@ -290,21 +290,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAttack.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T01:56:51.635Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -394,6 +381,19 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T02:35:18.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAttack.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T01:56:51.635Z",
               "EditorCaption": ""
             },
             {

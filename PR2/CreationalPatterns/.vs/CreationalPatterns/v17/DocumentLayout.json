@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\facade\\fellowshipfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\facade\\fellowshipfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\decorator\\elvensyrupaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\decorator\\elvensyrupaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\decorator\\ale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\decorator\\ale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\facade\\fellowshipfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\facade\\fellowshipfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\flyweight\\enttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,20 +111,12 @@
       "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\decorator\\gingeraddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\decorator\\elvensyrupaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\decorator\\elvensyrupaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\decorator\\breeherbsaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\decorator\\breeherbsaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\decorator\\drinkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\decorator\\drinkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\decorator\\ale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\structural\\decorator\\ale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43F3CD28-6AA4-41A8-B96F-6ECA6B57190D}|CreationalPatterns\\CreationalPatterns.csproj|d:\\study\\patterns\\pr2\\creationalpatterns\\creationalpatterns\\structural\\decorator\\mead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -290,37 +290,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FireAttack.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\FireAttack.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\FireAttack.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\FireAttack.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\FireAttack.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T01:59:35.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PhysicalAttack.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T01:57:42.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Ent.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\flyweight\\Ent.cs",
               "RelativeDocumentMoniker": "CreationalPatterns\\structural\\flyweight\\Ent.cs",
@@ -328,12 +302,11 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\flyweight\\Ent.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:40:57.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:40:57.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EntType.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\flyweight\\EntType.cs",
               "RelativeDocumentMoniker": "CreationalPatterns\\structural\\flyweight\\EntType.cs",
@@ -341,12 +314,11 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\flyweight\\EntType.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA2wBkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:39:36.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:39:36.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MagicAttack.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\MagicAttack.cs",
               "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\MagicAttack.cs",
@@ -354,25 +326,24 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\MagicAttack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T01:58:42.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T01:58:42.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\Program.cs",
               "RelativeDocumentMoniker": "CreationalPatterns\\Program.cs",
               "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\Program.cs",
               "RelativeToolTip": "CreationalPatterns\\Program.cs",
-              "ViewState": "AgIAAOsAAAAAAAAAAAAQwBwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAQwPIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T16:31:23.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FellowshipFacade.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\FellowshipFacade.cs",
               "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\FellowshipFacade.cs",
@@ -385,280 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAttack.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T01:56:51.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ElvenSword.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:00:58.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DwarvenAxe.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:01:44.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrcishBow.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:02:48.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\Weapon.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\Weapon.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\Weapon.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\Weapon.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:00:11.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Transport.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Transport.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\Transport.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Transport.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\Transport.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:34:42.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Supplies.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Supplies.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\Supplies.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Supplies.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\Supplies.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:32:57.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RoutePlanner.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:33:49.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Equipment.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Equipment.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\Equipment.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Equipment.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\Equipment.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:33:23.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ArmyGroup.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA3wB4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:11:52.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Troll.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Troll.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Troll.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Troll.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Troll.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:10:35.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Orc.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Orc.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Orc.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Orc.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Orc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:08:59.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Nazgul.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Nazgul.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Nazgul.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Nazgul.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Nazgul.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:11:12.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Goblin.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Goblin.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Goblin.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Goblin.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Goblin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:09:41.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IArmyUnit.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:08:26.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IDrink.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\IDrink.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\IDrink.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\IDrink.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\IDrink.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:20:33.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HoneyAddon.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:23:34.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GingerAddon.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:24:48.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ElvenSyrupAddon.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:24:12.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BreeHerbsAddon.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:25:47.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DrinkDecorator.cs",
-              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
-              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
-              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
-              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:22:49.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 2,
               "Title": "Ale.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\Ale.cs",
               "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\Ale.cs",
@@ -671,6 +369,283 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElvenSyrupAddon.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\ElvenSyrupAddon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:24:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhysicalAttack.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\PhysicalAttack.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T01:57:42.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FireAttack.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\FireAttack.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\FireAttack.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\FireAttack.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\FireAttack.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T01:59:35.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAttack.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\IAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T01:56:51.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElvenSword.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\ElvenSword.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:00:58.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DwarvenAxe.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\DwarvenAxe.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:01:44.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrcishBow.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\OrcishBow.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:02:48.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\Weapon.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\bridge\\Weapon.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\bridge\\Weapon.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\bridge\\Weapon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:00:11.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Transport.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\Transport.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Transport.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\Transport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:34:42.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Supplies.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Supplies.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\Supplies.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Supplies.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\Supplies.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:32:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoutePlanner.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\RoutePlanner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:33:49.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Equipment.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\facade\\Equipment.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\facade\\Equipment.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\facade\\Equipment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:33:23.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArmyGroup.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\ArmyGroup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:11:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Troll.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Troll.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Troll.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Troll.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Troll.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:10:35.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Orc.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Orc.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Orc.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Orc.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Orc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:08:59.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Nazgul.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Nazgul.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Nazgul.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Nazgul.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Nazgul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:11:12.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Goblin.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\Goblin.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\Goblin.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\Goblin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:09:41.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IArmyUnit.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\composite\\IArmyUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:08:26.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDrink.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\IDrink.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\IDrink.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\IDrink.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\IDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:20:33.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HoneyAddon.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\HoneyAddon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:23:34.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GingerAddon.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\GingerAddon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:24:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BreeHerbsAddon.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\BreeHerbsAddon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:25:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DrinkDecorator.cs",
+              "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
+              "ToolTip": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
+              "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\DrinkDecorator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:22:49.121Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Mead.cs",
               "DocumentMoniker": "D:\\Study\\patterns\\PR2\\CreationalPatterns\\CreationalPatterns\\structural\\decorator\\Mead.cs",
@@ -679,8 +654,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\decorator\\Mead.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:22:03.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:22:03.604Z"
             },
             {
               "$type": "Document",
@@ -692,8 +666,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\flyweight\\EntFactory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:40:29.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:40:29.362Z"
             },
             {
               "$type": "Document",
@@ -705,8 +678,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\proxy\\PalantirProxy.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwBEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:49:50.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:49:50.699Z"
             },
             {
               "$type": "Document",
@@ -718,8 +690,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\proxy\\Palantir.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:46:44.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:46:44.193Z"
             },
             {
               "$type": "Document",
@@ -731,8 +702,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\proxy\\IPalantir.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:45:12.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:45:12.449Z"
             },
             {
               "$type": "Document",
@@ -744,8 +714,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\adapter\\RivendellBlacksmith.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:08:16.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T08:08:16.933Z"
             },
             {
               "$type": "Document",
@@ -757,8 +726,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\adapter\\OldBlacksmith.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:04:19.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T08:04:19.729Z"
             },
             {
               "$type": "Document",
@@ -770,8 +738,7 @@
               "RelativeToolTip": "CreationalPatterns\\structural\\adapter\\ISword.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:04:41.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T08:04:41.984Z"
             },
             {
               "$type": "Document",

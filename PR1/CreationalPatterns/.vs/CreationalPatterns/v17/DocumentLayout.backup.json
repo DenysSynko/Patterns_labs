@@ -158,8 +158,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\IDrink.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:26:20.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:26:20.365Z"
             },
             {
               "$type": "Document",
@@ -171,8 +170,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\IFood.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:26:05.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:26:05.394Z"
             },
             {
               "$type": "Document",
@@ -184,8 +182,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ElvenWine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:31:02.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:31:02.647Z"
             },
             {
               "$type": "Document",
@@ -197,8 +194,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\HobbitPie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:27:35.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:27:35.44Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ITavern.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:33:43.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:33:43.92Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ElvenFactory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:35:53.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:35:53.345Z"
             },
             {
               "$type": "Document",
@@ -236,8 +230,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\HobbitFactory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:35:14.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:35:14.121Z"
             },
             {
               "$type": "Document",
@@ -247,7 +240,7 @@
               "RelativeDocumentMoniker": "CreationalPatterns\\creational\\abstract_factory\\Tavern.cs",
               "ToolTip": "D:\\Study\\patterns\\PR1\\CreationalPatterns\\CreationalPatterns\\creational\\abstract_factory\\Tavern.cs",
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\Tavern.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T16:41:05.645Z",
               "EditorCaption": ""
@@ -262,8 +255,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\GoblinCreator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T15:37:55.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T15:37:55.5Z"
             },
             {
               "$type": "Document",
@@ -275,8 +267,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\Creator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T15:32:45.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T15:32:45.189Z"
             },
             {
               "$type": "Document",
@@ -288,8 +279,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\Goblin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T15:26:58.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T15:26:58.883Z"
             },
             {
               "$type": "Document",
@@ -301,8 +291,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory_method\\Orc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T15:20:37.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T15:20:37.16Z"
             },
             {
               "$type": "Document",
@@ -314,8 +303,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory\\MenuFactory.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T00:39:48.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T00:39:48.651Z"
             },
             {
               "$type": "Document",
@@ -327,8 +315,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Wine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T00:37:11.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T00:37:11.028Z"
             },
             {
               "$type": "Document",
@@ -340,8 +327,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Tea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T00:37:55.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T00:37:55.489Z"
             },
             {
               "$type": "Document",
@@ -353,8 +339,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory\\IMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T00:26:43.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T00:26:43.574Z"
             },
             {
               "$type": "Document",
@@ -366,8 +351,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\builder\\ArmyBuilder.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:08:37.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:08:37.566Z"
             },
             {
               "$type": "Document",
@@ -379,8 +363,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\builder\\ArmyOfGondor.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:27:44.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:27:44.184Z"
             },
             {
               "$type": "Document",
@@ -392,8 +375,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\builder\\IArmy.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:08:13.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:08:13.571Z"
             },
             {
               "$type": "Document",
@@ -405,8 +387,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\prototype\\Warrior.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:58:46.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T17:58:46.095Z"
             },
             {
               "$type": "Document",
@@ -418,8 +399,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\prototype\\Person.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:55:21.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T17:55:21.568Z"
             },
             {
               "$type": "Document",
@@ -431,8 +411,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\singleton\\OneRing.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:24:54.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T17:24:54.565Z"
             },
             {
               "$type": "Document",
@@ -444,8 +423,7 @@
               "RelativeToolTip": "CreationalPatterns\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwH0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T16:31:23.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T16:31:23.443Z"
             },
             {
               "$type": "Document",
@@ -457,8 +435,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\HobbitAle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:27:49.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:27:49.703Z"
             },
             {
               "$type": "Document",
@@ -470,8 +447,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\abstract_factory\\ElvenLembas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:30:51.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T16:30:51.18Z"
             },
             {
               "$type": "Document",
@@ -483,8 +459,7 @@
               "RelativeToolTip": "CreationalPatterns\\creational\\factory\\Coffee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T00:38:59.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T00:38:59.17Z"
             },
             {
               "$type": "Document",
